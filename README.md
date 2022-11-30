@@ -1,6 +1,6 @@
 # Discord-Token-Generator
 
-Made By Termed
+**Made By Termed**
 
 # Shitty Showcase
 
