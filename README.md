@@ -1,5 +1,7 @@
 # Discord-Token-Generator
 
+Made By Termed
+
 # Shitty Showcase
 
 https://streamable.com/eo6vxc
