@@ -1,0 +1,10 @@
+pip install time
+pip install sys
+pip install re
+pip install os
+pip install random
+pip install threading
+pip install json
+pip install colorama
+pip install discord
+pip install pystyle
