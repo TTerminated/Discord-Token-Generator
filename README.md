@@ -11,4 +11,4 @@ https://streamable.com/eo6vxc
 **if u want unlocked tokens use good proxies!**
 
 # 〢Discord
-**Join our discord RN https://discord.gg/C4qtZkU9NH**
+**Join our discord: https://discord.gg/emdTgSGKx2**
