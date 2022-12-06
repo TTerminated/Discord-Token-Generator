@@ -9,6 +9,7 @@ https://streamable.com/eo6vxc
 
 # 〢Note 
 **if u want unlocked tokens use good proxies!**
+**Capmonster needs to have money on it otherwise it wont work :bomb:**
 
 # 〢Discord
 **Join our discord: https://discord.gg/emdTgSGKx2**
