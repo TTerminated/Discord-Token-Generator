@@ -2,7 +2,7 @@
 
 **Simple Discord token generator**
 
-# 〢 Shitty Showcase
+# 〢 Old Shitty Showcase
 
 https://streamable.com/eo6vxc
 
