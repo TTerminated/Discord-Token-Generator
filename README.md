@@ -7,6 +7,7 @@
 
 <a href="https://streamable.com/eo6vxc">Showcase</a> 
 
+# 〢Python Version needed
 
 **Download Python 3.9.5**
 <a href="https://www.python.org/downloads/release/python-395/">Download Here</a> 
