@@ -1,6 +1,6 @@
 # 〢 Discord-Token-Generator
 
-**Simple Discord token generator** :star:
+**Simple Discord token generator!** :star:
 
 
 # 〢 Old Shitty Showcase
