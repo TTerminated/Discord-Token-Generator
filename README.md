@@ -16,6 +16,8 @@
 **if u want unlocked tokens use good proxies!**
 **Capmonster needs to have money on it otherwise it wont work :x:**
 
+# 〢Update?
+**Soon**
 
 # 〢Discord
 **Join our discord: https://discord.gg/emdTgSGKx2**
