@@ -17,7 +17,7 @@
 **Capmonster needs to have money on it otherwise it wont work :x:**
 
 # 〢Update?
-**Soon** :star:
+**Added Joiner and token generator** :star:
 
 # 〢Discord
 **Join our discord: https://discord.gg/emdTgSGKx2**
