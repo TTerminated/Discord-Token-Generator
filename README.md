@@ -20,4 +20,4 @@
 **Added Joiner and token generator** :star:
 
 # 〢Discord
-**Join our discord: https://discord.gg/emdTgSGKx2**
+**Join our discord: https://discord.gg/MCemrFARFy**
