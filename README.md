@@ -3,9 +3,7 @@
 **Simple Discord token generator!** :star:
 
 
-# 〢 Old Shitty Showcase
-
-<a href="https://streamable.com/eo6vxc">Showcase</a> 
+# 〢 Patched!!
 
 # 〢Python Version needed
 
